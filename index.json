@@ -1,0 +1,63 @@
+{
+    "version": 1,
+    "updated": "2026-10-25T11:10:32+00:00",
+    "kits": [
+        {
+            "id": "bistro-site",
+            "name": "Bistro",
+            "type": "site",
+            "version": "1.0.0",
+            "author": "CanvasCore examples",
+            "description": "A small restaurant site: Home, About and Contact, with a header, a footer, a menu and warm colours. An example of a site kit.",
+            "license": "CC0-1.0",
+            "tags": [
+                "restaurant",
+                "small business"
+            ],
+            "pages": 3,
+            "size": 11243,
+            "sha256": "215bf47a2fa50fb6de210f03cf64b0b6e6b26ac2687c09ebc659adc180de4303",
+            "url": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/bistro-site-1.0.0.zip",
+            "minVersion": "0.24.0",
+            "preview": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/bistro-site-preview.png"
+        },
+        {
+            "id": "coming-soon-page",
+            "name": "Coming Soon",
+            "type": "page",
+            "version": "1.0.0",
+            "author": "CanvasCore examples",
+            "description": "A one-screen \"we are launching soon\" page with a logo, a message and a sign-up. An example of a page kit.",
+            "license": "CC0-1.0",
+            "tags": [
+                "launch",
+                "landing"
+            ],
+            "pages": 1,
+            "size": 3831,
+            "sha256": "f2b0aeede1659f0a332765ca49fa80a8e9c4739ea62de1bd28c657831a636659",
+            "url": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/coming-soon-page-1.0.0.zip",
+            "minVersion": "0.24.0",
+            "preview": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/coming-soon-page-preview.png"
+        },
+        {
+            "id": "landing-sections",
+            "name": "Landing sections",
+            "type": "section",
+            "version": "1.0.0",
+            "author": "CanvasCore examples",
+            "description": "Three ready-made sections for a landing page: a hero, a features row and a call to action. They appear under Add › My templates.",
+            "license": "CC0-1.0",
+            "tags": [
+                "landing",
+                "sections"
+            ],
+            "pages": 0,
+            "size": 3147,
+            "sha256": "6f2a9ac47e720e7e285e4e55245071c314573f3992644227f395b8486adfee45",
+            "url": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/landing-sections-1.0.0.zip",
+            "minVersion": "0.24.0",
+            "preview": "https://raw.githubusercontent.com/sputlab/canvascore-library/main/landing-sections-preview.png"
+        }
+    ]
+}
